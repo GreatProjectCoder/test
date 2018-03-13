@@ -21,4 +21,3 @@ class home(object):
             print("\n")
     def who(self):
         return self.name
-    
